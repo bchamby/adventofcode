@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # For instructions, just review day4a.py
-# Interestingly, the puzzle is the exact same, exact they say to look
+# Interestingly, the puzzle is the exact same, except they say to look
 # for the first md5 hash that starts with six zeroeos.
 # Maybe the idea is to reinforce how powerful computers and programming languages are?
 
